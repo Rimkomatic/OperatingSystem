@@ -1,10 +1,1 @@
-Hello it is a file
-It is 17th January 2023
-It is 28C outside
-My name is Rik Mahapatra
-I am from West Bengal
-My favorite subject is Math
-I want to be a web developer
-Second OS lab is going on 
-It is the last line in this file
-hello
+
